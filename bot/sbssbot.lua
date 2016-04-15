@@ -220,28 +220,17 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {122774063,106014613,108151290,114986931,121208333},--Sudo users
+    sudo_users = {142266345},--Sudo users
     disabled_channels = {},
     realm = {79472297},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[SBSS Version 2
-An advance Administration bot based on yagop/telegram-bot by @Mr_Ah_S
+An advance Administration bot based on yagop/telegram-bot by @dimon_ep
 
 https://Github.com/MRAHS/SBSS
 
-Admins
-@MR_AH_S [Developer]
-@Ra3oul13 [Manager]
-@Amiirdada [Support]
-Other Admins:
-@Taha_sh_report
-@Sajjad0S
-@i81therock
-
-برای خرید گپ به 4 آیدی اول و برای خرید آموزش ساخت ربات ضد اسپم و ساخت ربات ضد اسپم به @Mr_Ah_S مراجعه کنید
-
 Our channels
-@SBSS_Team
+@dimon_team
 ]],
     help_text = [[
 لیست دستورات 
