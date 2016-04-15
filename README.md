@@ -1,4 +1,4 @@
-# [SBSS](https://telegram.me/SBSS_Bot) 
+# [DIMON](https://telegram.me/DIMON_TEAM) 
 **An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under [GNU General public License](https://github.com/MRAHS/SBSS/blob/master/LICENSE)**
 # Features
 
@@ -374,12 +374,5 @@ realm = {},--Realms Id
 ```
 then start the bot again
 
-# Our team !
 
-[@Mr_Ah_S](https://telegram.me/Mr_Ah_S)
-
-[@Ra3oul13](https://telegram.me/Ra3oul13)
-
-[@Amiirdada](https://telegram.me/Amiirdada)
-
-Our cahnnel > [@SBSS_Team](https://telegram.me/SBSS_Team)
+Our cahnnel > [@DIMON_TEAM](https://telegram.me/DIMON_TEAM)
